@@ -49,4 +49,4 @@ npm run dev
 
 📧 eduardocvalente1@hotmail.com  
 💼 [LinkedIn](https://linkedin.com/in/eduardo-costa-valente-4b4316180)  
-🌐 [Portfolio](https://eduardocvalente.github.io/devshowcase)
+🌐 [Portfolio](https://github.com/eduardocvalente/devshowcase)
